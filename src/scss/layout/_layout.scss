@@ -68,10 +68,11 @@ main {
 aside {
   border: $border-size solid $secondary-color;
   margin: $m-size;
+  padding: $p-size;
 }
 
 article {
-  padding:$p-size;
+  padding: $p-size;
 }
 
 footer {
